@@ -1,4 +1,4 @@
 # qr-code-component
 
-** This is a desktop version of a QR code component. The live website to this project is available.**
+**This is a desktop version of a QR code component. The live website to this project is available.**
 
